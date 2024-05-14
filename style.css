@@ -26,7 +26,7 @@ canvas {
   height: 552px;
   width: 422px;
   display: block;
-  background: url(/격자.png) top left;
+  background: url(/jump-jump/격자.png) top left;
 }
 
 #scoreBoard {
@@ -37,7 +37,7 @@ canvas {
   top: -3px;
   left: 0;
   z-index: -1;
-  border-image: url(/세로줄.png) 100 5 round;
+  border-image: url(/jump-jump/세로줄.png) 100 5 round;
 }
 
 #scoreBoard p {
@@ -90,7 +90,7 @@ h3 a {
 .button {
   width: 105px;
   height: 31px;
-  background: url(/캐릭터.png) 0 0 no-repeat;
+  background: url(/jump-jump/캐릭터.png) 0 0 no-repeat;
   display: block;
   color: #000;
   font-size: 15px;
@@ -122,7 +122,7 @@ h3 a {
 .info .key {
   width: 16px;
   height: 16px;
-  background: url(/캐릭터.png) no-repeat;
+  background: url(/jump-jump/캐릭터.png) no-repeat;
   text-indent: -9999px;
   display: inline-block;
 }
